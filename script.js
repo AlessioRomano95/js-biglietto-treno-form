@@ -32,3 +32,4 @@ button.addEventListener('click', function(){
     // 8
     prezzo.innerText = userNome + ' ' + message
 })
+
