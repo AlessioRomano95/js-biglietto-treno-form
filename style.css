@@ -1,0 +1,56 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(44, 44, 44);
+}
+
+.title{
+  margin-top: 50px;
+  margin-bottom:50px;
+  text-align: center;
+}
+
+h1{
+  font-size: 3rem;
+  color: rgb(30, 111, 183);
+  box-shadow: 10px black;
+}
+
+.dati{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(30, 111, 183);
+  height: 300px;
+}
+
+.color{
+  width: 900px;
+  color: white;
+  border-radius: 10px;
+  background-color: rgb(6, 82, 149);
+  border: 1px solid rgb(8, 123, 224);
+  text-align: center;
+  padding:50px;
+}
+
+.biglietto{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:50px;
+}
+
+.biglietto1{
+  width: 900px;
+  color: white;
+  border-radius: 10px;
+  background-color: rgb(6, 82, 149);
+  border: 1px solid rgb(8, 123, 224);
+  text-align: center;
+  padding:50px;
+}
